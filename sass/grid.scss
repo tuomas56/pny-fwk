@@ -1,0 +1,15 @@
+@import "susy";
+
+$grid-columns: 12;
+
+@for $i from 1 through $grid-columns {
+    .w#{$i} {
+        @include span($i of $grid-columns split);
+    }
+}
+
+@media (max-width: 767px) {
+    .col {
+        width: 100% !important;
+    }
+}
