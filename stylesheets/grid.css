@@ -1,102 +1,162 @@
 /* line 6, ../sass/grid.scss */
-
 .w1 {
-    width: 6.66667%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 6.66667%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p1 {
+  margin-left: 6.66667%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w2 {
-    width: 15%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 15%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p2 {
+  margin-left: 15%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w3 {
-    width: 23.33333%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 23.33333%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p3 {
+  margin-left: 23.33333%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w4 {
-    width: 31.66667%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 31.66667%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p4 {
+  margin-left: 31.66667%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w5 {
-    width: 40%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 40%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p5 {
+  margin-left: 40%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w6 {
-    width: 48.33333%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 48.33333%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p6 {
+  margin-left: 48.33333%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w7 {
-    width: 56.66667%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 56.66667%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p7 {
+  margin-left: 56.66667%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w8 {
-    width: 65%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 65%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p8 {
+  margin-left: 65%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w9 {
-    width: 73.33333%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 73.33333%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p9 {
+  margin-left: 73.33333%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w10 {
-    width: 81.66667%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 81.66667%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
+/* line 9, ../sass/grid.scss */
+.p10 {
+  margin-left: 81.66667%;
+}
+
+/* line 6, ../sass/grid.scss */
 .w11 {
-    width: 90%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+  width: 90%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
 }
-/* line 6, ../sass/grid.scss */
 
-.w12 {
-    width: 98.33333%;
-    float: left;
-    margin-left: 0.83333%;
-    margin-right: 0.83333%;
+/* line 9, ../sass/grid.scss */
+.p11 {
+  margin-left: 90%;
 }
+
+/* line 6, ../sass/grid.scss */
+.w12 {
+  width: 98.33333%;
+  float: left;
+  margin-left: 0.83333%;
+  margin-right: 0.83333%;
+}
+
+/* line 9, ../sass/grid.scss */
+.p12 {
+  margin-left: 98.33333%;
+}
+
 @media (max-width: 767px) {
-    /* line 12, ../sass/grid.scss */
-    .col {
-        width: 100% !important;
-    }
+  /* line 15, ../sass/grid.scss */
+  .col {
+    width: 100% !important;
+  }
 }

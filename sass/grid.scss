@@ -6,6 +6,9 @@ $grid-columns: 12;
     .w#{$i} {
         @include span($i of $grid-columns split);
     }
+    .p#{$i} {
+        margin-left: span($i of $grid-columns split);
+    }
 }
 
 @media (max-width: 767px) {
